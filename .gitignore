@@ -1,0 +1,7 @@
+client/node_modules
+log
+node_modules
+tmp
+
+*.staging.yml
+*.production.yml
